@@ -83,4 +83,4 @@ Click below to watch a short video where I introduce myself, discuss my technica
 ---
 
 ## 📈 GitHub Stats (Optional but powerful)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LogicIngas&show_icons=true&theme=default)
+![GitHub Stats](https://logic-boy-stats.vercel.app/api?username=LogicIngas&show_icons=true&theme=dracula)
