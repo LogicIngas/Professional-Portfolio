@@ -11,143 +11,107 @@
 ---
 
 # 🧠 Professional Profile
-Highly motivated and detail-oriented Applications Development student with a strong foundation in Java, Python, and modern web technologies. Adept at building scalable, user-focused applications and collaborating in Agile environments. Passionate about solving real-world problems through innovative and efficient software solutions, with growing experience in full-stack development and database integration.
+Highly motivated Applications Development student with strong skills in Java, Python, web development, and software engineering principles. Passionate about building practical solutions and improving user experiences through technology.
 
 ---
 
 # 🛠️ Technical Skills
 
 ## 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
 
 ---
 
 ## 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat)
 
 ---
 
-## ⚙️ Tools & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat)
 
 ---
 
-# 🎥 Mock Interview & Professional Introduction
-
-<p align="center">
-
-[![Watch My Mock Interview](https://via.placeholder.com/900x400.png?text=Click+to+Watch+My+Mock+Interview)](https://drive.google.com/file/d/1r3BA0biYKo8JwFmfVXzXpuGweJDtHKXR/view)
-
-</p>
+# 🎥 Mock Interview
+▶ [Watch My Mock Interview](https://drive.google.com/file/d/1r3BA0biYKo8JwFmfVXzXpuGweJDtHKXR/view)
 
 ---
 
 # 🎓 Education
-
-**Diploma in ICT (Applications Development)**  
-*Cape Peninsula University of Technology* | 2024 – Present  
-
-**Higher Certificate in Information Technology**  
-*Cape Peninsula University of Technology* | 2023  
+**Diploma in ICT (Applications Development)** – CPUT (2024–Present)  
+**Higher Certificate in IT** – CPUT (2023)
 
 ---
 
 # 🛠️ Projects
 
-## 🛍️ Community Marketplace Application *(Group Leader)*
-- Led a team of six in developing a scalable marketplace platform  
-- Managed project planning, risk register, and sprint coordination  
-- Resolved Git merge conflicts and ensured smooth collaboration  
-- Applied Agile methodologies to deliver milestones on time  
+## 🛍️ Community Marketplace
+- Led development of a group marketplace system  
+- Managed Git collaboration and sprint planning  
 
-## 👕 Local Community E-commerce Platform *(Lead Developer)*
-- Designed and developed a clothing marketplace system  
-- Implemented product catalog and user interaction features  
-- Focused on UI/UX design principles and accessibility  
-- Integrated frontend and backend components  
+## 👕 E-commerce Platform
+- Built product catalog system  
+- Focused on UI/UX and backend integration  
 
 ---
 
 # 💼 Experience
+Student Developer at CPUT (2023–Present)
 
-**Student Developer**  
-*Cape Peninsula University of Technology* | 2023 – Present  
-
-- Developed full-stack applications using Java, Spring Boot, and React  
-- Applied Agile and Scrum methodologies in team-based projects  
-- Produced technical documentation aligned with PMBOK standards  
-- Practiced version control and collaboration using GitHub  
+- Full-stack development exposure  
+- Agile and Scrum methodology  
+- GitHub version control experience  
 
 ---
 
 # 📎 Supporting Documents
-
-- 📄 [View Academic Record](./documents/Inga_Mbobo_Academic_Record.pdf)
+📄 Academic Record: ./documents/Inga_Mbobo_Academic_Record.pdf
 
 ---
 
-# 📸 Evidence Section
+# 📸 Evidence
+### GitHub Repository
+![Repo](./documents/GitHubRepos.png)
 
-### 🔹 GitHub Repository
+---
+
+# 🌐 GitHub Pages
+👉 https://logicingas.github.io/Professional-Portfolio/
+
+---
+
+# 📈 GitHub Stats Dashboard
+
 <p align="center">
-<img src="./documents/GitHubRepos.png" width="800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LogicIngas&show_icons=true&theme=dracula&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LogicIngas&theme=dracula&hide_border=true" />
 </p>
 
 ---
 
-# 🌐 GitHub Pages Publication
+# 🌍 Reflection (STAR)
 
-## 🔗 Live Portfolio
-👉 **[View My Live Portfolio](https://logicingas.github.io/Professional-Portfolio/)**  
+### Situation
+I was required to publish my portfolio using GitHub Pages.
 
----
+### Task
+Create a live professional portfolio.
 
-## ⚙️ Steps Taken
-- Created GitHub repository  
-- Added structured README.md  
-- Pushed project files  
-- Enabled GitHub Pages  
-- Selected main branch  
-- Deployed successfully  
-- Verified public access  
+### Action
+Structured my repository and deployed using GitHub Pages.
 
----
-
-# 🌍 Reflection: GitHub Pages (STAR Method)
-
-### ⭐ Situation
-I was required to publish my digital portfolio online using GitHub Pages.
-
-### 🎯 Task
-My task was to create a professional online presence showcasing my skills and projects.
-
-### ⚙️ Action
-I configured GitHub Pages, structured my repository correctly, and deployed my README as a live site.
-
-### ✅ Result
-I successfully published my portfolio online, improving my professional visibility and accessibility to employers.
-
----
-
-# 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://logic-boy-stats.vercel.app/api?username=LogicIngas&show_icons=true&theme=dracula" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LogicIngas&theme=dracula" />
-</p>
+### Result
+Successfully published a live portfolio showcasing my development skills.
 
 ---
 
 # 🚀 Final Thoughts
-This portfolio represents my growth as an Applications Development student, demonstrating both technical competence and professional readiness.
+This portfolio demonstrates my technical growth and readiness for real-world software development.
