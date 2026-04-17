@@ -1,117 +1,185 @@
-<div align="center">
-
 # 👋 Hi, I'm Inganathi Mbobo  
 ### 🎓 Final Year ICT Student | 💻 Applications Development  
 
 📍 Cape Town, South Africa  
-📧 230711723@mycput.ac.za | 📞 0699279438  
-
-</div>
+📧 230711723@mycput.ac.za  
+📞 0699279438  
 
 ---
 
 # 🧠 Professional Profile
-Highly motivated Applications Development student with strong skills in Java, Python, web development, and software engineering principles. Passionate about building practical solutions and improving user experiences through technology.
+
+Results-driven Applications Development student with a strong foundation in Java, Python, and modern web technologies. Skilled in designing and developing scalable, user-focused applications using Agile methodologies. Demonstrates strong problem-solving abilities, attention to detail, and a commitment to continuous learning. Passionate about building innovative solutions that address real-world challenges.
 
 ---
 
 # 🛠️ Technical Skills
 
 ## 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
-
----
+- Java  
+- Python  
+- PHP  
+- SQL  
 
 ## 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat)
+- HTML5  
+- CSS3  
+- JavaScript  
+
+## ⚙️ Tools & Frameworks
+- React  
+- Spring Boot  
+- Git  
+- GitHub  
 
 ---
 
-## ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat)
+# 🎥 Mock Interview & Professional Introduction
 
----
-
-# 🎥 Mock Interview
-▶ [Watch My Mock Interview](https://drive.google.com/file/d/1r3BA0biYKo8JwFmfVXzXpuGweJDtHKXR/view)
+👉 [Watch My Mock Interview](https://drive.google.com/file/d/1r3BA0biYKo8JwFmfVXzXpuGweJDtHKXR/view)
 
 ---
 
 # 🎓 Education
-**Diploma in ICT (Applications Development)** – CPUT (2024–Present)  
-**Higher Certificate in IT** – CPUT (2023)
+
+**Diploma in ICT (Applications Development)**  
+Cape Peninsula University of Technology | 2024 – Present  
+
+**Higher Certificate in Information Technology**  
+Cape Peninsula University of Technology | 2023  
 
 ---
 
 # 🛠️ Projects
 
-## 🛍️ Community Marketplace
-- Led development of a group marketplace system  
-- Managed Git collaboration and sprint planning  
+## 🛍️ Community Marketplace Application *(Group Leader)*
+- Led a team of six in the design and development of a scalable marketplace platform  
+- Coordinated sprint planning, task allocation, and risk management  
+- Resolved Git merge conflicts to maintain workflow efficiency  
+- Applied Agile methodologies to deliver project milestones on time  
 
-## 👕 E-commerce Platform
-- Built product catalog system  
-- Focused on UI/UX and backend integration  
+## 👕 Local Community E-commerce Platform *(Lead Developer)*
+- Designed and implemented a clothing marketplace system  
+- Developed product catalog and user interaction functionality  
+- Applied UI/UX design principles to improve usability and accessibility  
+- Integrated frontend and backend components  
 
 ---
 
 # 💼 Experience
-Student Developer at CPUT (2023–Present)
 
-- Full-stack development exposure  
-- Agile and Scrum methodology  
-- GitHub version control experience  
+**Student Developer**  
+Cape Peninsula University of Technology | 2023 – Present  
+
+- Developed full-stack applications using Java, Spring Boot, and React  
+- Applied Agile and Scrum methodologies in collaborative environments  
+- Produced technical documentation aligned with PMBOK standards  
+- Utilised GitHub for version control and team collaboration  
 
 ---
 
 # 📎 Supporting Documents
-📄 Academic Record: ./documents/Inga_Mbobo_Academic_Record.pdf
+
+📄 [View Academic Record](./documents/Inga_Mbobo_Academic_Record.pdf)
 
 ---
 
-# 📸 Evidence
-### GitHub Repository
-![Repo](./documents/GitHubRepos.png)
+# 📸 Evidence Section
+
+## GitHub Repository
+![GitHub Repository](./documents/GitHubRepos.png)
 
 ---
 
-# 🌐 GitHub Pages
+# 🌐 GitHub Pages Publication
+
+## 🔗 Live Portfolio
 👉 https://logicingas.github.io/Professional-Portfolio/
 
 ---
 
-# 📈 GitHub Stats Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LogicIngas&show_icons=true&theme=dracula&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LogicIngas&theme=dracula&hide_border=true" />
-</p>
+## ⚙️ Steps Taken
+- Created a GitHub repository for the digital portfolio  
+- Structured content using Markdown in a README.md file  
+- Uploaded and managed files using Git version control  
+- Enabled GitHub Pages for public access  
+- Selected the main branch as the deployment source  
+- Verified successful deployment and accessibility  
 
 ---
 
-# 🌍 Reflection (STAR)
+# 🧾 Reflection: GitHub Student Account (STAR Method)
 
-### Situation
-I was required to publish my portfolio using GitHub Pages.
+## ⭐ Situation
+As part of my academic development, I was required to establish a professional GitHub presence.
 
-### Task
-Create a live professional portfolio.
+## 🎯 Task
+To effectively use GitHub as a platform to showcase my projects, technical skills, and growth.
 
-### Action
-Structured my repository and deployed using GitHub Pages.
+## ⚙️ Action
+I uploaded and maintained structured repositories, documented my work clearly, and used version control practices consistently. I also included my mock interview video as supporting evidence of my professional communication skills.
 
-### Result
-Successfully published a live portfolio showcasing my development skills.
+## ✅ Result
+I developed a strong GitHub profile that demonstrates both my technical ability and professionalism, making it easier for lecturers and potential employers to assess my capabilities.
+
+---
+
+# 💻 Reflection: Coding Journey (STAR Method)
+
+## ⭐ Situation
+During my Applications Development studies, I was introduced to multiple programming languages and development frameworks.
+
+## 🎯 Task
+To build strong programming skills and apply them effectively to real-world scenarios.
+
+## ⚙️ Action
+I practiced coding consistently, worked on academic and personal projects, and collaborated with peers using GitHub. I explored technologies such as Java, Python, and web development while applying Agile practices.
+
+## ✅ Result
+I improved my problem-solving skills and gained confidence in developing complete applications, from design to implementation.
+
+---
+
+# 🎤 Reflection: Mock Interview (STAR Method)
+
+## ⭐ Situation
+I participated in a mock interview as preparation for entering the professional workplace.
+
+## 🎯 Task
+To present myself professionally and communicate my technical knowledge effectively.
+
+## ⚙️ Action
+I prepared structured responses, practiced common interview questions, and clearly explained my projects and technical skills during the interview.
+
+## ✅ Result
+I improved my communication and presentation skills, increased my confidence, and identified areas for further improvement.
+
+---
+
+# 🌍 Reflection: GitHub Pages (STAR Method)
+
+## ⭐ Situation
+I was required to publish my digital portfolio online using GitHub Pages.
+
+## 🎯 Task
+To create an accessible and professional online portfolio.
+
+## ⚙️ Action
+I configured GitHub Pages, ensured proper repository structure, and successfully deployed my portfolio.
+
+## ✅ Result
+I published a live portfolio that enhances my professional visibility and allows others to easily access and evaluate my work.
+
+---
+
+# 📈 GitHub Stats & Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LogicIngas&show_icons=true&theme=default&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LogicIngas&layout=compact&theme=default&cache_seconds=1800)
 
 ---
 
 # 🚀 Final Thoughts
-This portfolio demonstrates my technical growth and readiness for real-world software development.
+
+This digital portfolio represents my growth as an Applications Development student. It highlights my technical skills, project experience, and ability to present myself professionally. I am prepared to apply my knowledge in real-world environments and continue developing as a software developer.
