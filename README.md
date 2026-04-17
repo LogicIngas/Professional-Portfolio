@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Inganathi Mbobo  
-### 🎓 Final Year ICT Student | 💻 Applications Development  
+---
+# 🎓 Final Year ICT Student | 💻 Applications Development  
 
 📍 Cape Town, South Africa  
 📧 230711723@mycput.ac.za  
